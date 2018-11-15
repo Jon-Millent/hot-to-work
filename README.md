@@ -1,8 +1,12 @@
-# rulelib
-js正则表达式字典
+# how to work
 
-* 微信号
-  ```js
-  /^[a-zA-Z][a-zA-Z\d\-_]{5,19}$/
-  /* 微信账号仅支持6-20个字母、数字、下划线或减号，以字母开头 */
-  ```
+* 正则
+* 配色
+
+## 正则
+
+* <a href="https://jex.im/regulex/">正则可视化</a>
+
+## 配色
+
+* <a href="http://nipponcolors.com/">日本传统色</a>
