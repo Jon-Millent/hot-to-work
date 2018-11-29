@@ -10,3 +10,12 @@
 ## 配色
 
 * <a href="http://nipponcolors.com/">日本传统色</a>
+
+## 文档
+
+* <a href="https://demopark.github.io/sequelize-docs-Zh-CN/querying.html">sequelize 中文文档</a>
+
+## 网站分析
+
+* <a href="https://website.grader.com/results/google.com">seo优化分析</a>
+* <a href="https://builtwith.com/">网页架构分析</a>
