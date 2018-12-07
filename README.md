@@ -22,3 +22,6 @@
 * <a href="https://www.dnsperf.com/dns-speed-benchmark">网站dns各地速度查询</a>
 * <a href="https://dnsmap.io">网站dns各地解析查询</a>
 * <a href="https://www.dotcom-tools.com">网站世界各地速度查询</a>
+
+## 短网址
+* <a href="https://git.io/">github短网址</a>
