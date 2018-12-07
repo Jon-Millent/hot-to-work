@@ -19,3 +19,6 @@
 
 * <a href="https://website.grader.com/results/google.com">seo优化分析</a>
 * <a href="https://builtwith.com/">网页架构分析</a>
+* <a href="https://www.dnsperf.com/dns-speed-benchmark">网站dns各地速度查询</a>
+* <a href="https://dnsmap.io">网站dns各地解析查询</a>
+* <a href="https://www.dotcom-tools.com">网站世界各地速度查询</a>
