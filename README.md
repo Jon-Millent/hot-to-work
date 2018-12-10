@@ -27,6 +27,8 @@
 
 ## 全景
 * <a href="http://mob.visualbusiness.cn/gugong-mobile/index.html">全景故宫</a>
+* <a href="https://ssl-offical.720static.com/product/static/b1e26csOwlw/790j57kOkv8.html?scene_id=12493256&from=timeline&isappinstalled=0">全景杭州雪景</a>
+
 
 ## 云办公
 * <a href="https://uzer.me">uzer.me</a>
