@@ -35,3 +35,7 @@
 
 ## 记录
 * <a href="http://www.evolutionoftheweb.com/">网络的演变</a>
+
+## 特效
+* <a href="https://wangyasai.github.io/Stars-Emmision/">万箭齐发例子特效在线制作</a>
+
