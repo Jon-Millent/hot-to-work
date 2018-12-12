@@ -6,6 +6,8 @@
 * <a href="https://jex.im/regulex/">正则可视化</a>
 * <a href="https://git.io/">github短网址</a>
 * <a href="https://uzer.me">uzer.me 在线ps办公等..</a>
+* <a href="http://www.yopmail.com/zh/">匿名邮箱</a>
+
 
 ## 配色
 
