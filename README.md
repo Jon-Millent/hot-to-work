@@ -3,6 +3,7 @@
 ## 效率工具
 * <a href="https://www.liaoxuefeng.com/wiki/001508284671805d39d23243d884b8b99f440bfae87b0f4000/001509167363938072fc3ae9c454397bbd791fd88b7d92d000
 ">在线mysql</a>
+<a href="https://try.redis.io/">在线redis</a>
 * <a href="https://jex.im/regulex/">正则可视化</a>
 * <a href="https://git.io/">github短网址</a>
 * <a href="https://uzer.me">uzer.me 在线ps办公等..</a>
