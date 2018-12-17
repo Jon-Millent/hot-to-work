@@ -39,3 +39,5 @@
 ## 特效
 * <a href="https://wangyasai.github.io/Stars-Emmision/">万箭齐发例子特效在线制作</a>
 
+## 划水
+* <a href="https://seeker.niuap.com/">多人贪吃蛇</a>
