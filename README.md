@@ -9,6 +9,8 @@
 * <a href="https://uzer.me">uzer.me 在线ps办公等..</a>
 * <a href="http://www.yopmail.com/zh/">匿名邮箱</a>
 * <a href="http://24mail.chacuo.net/">临时邮箱</a>
+* <a href="https://www.remove.bg/">在线自动扣图</a>
+
 
 
 ## 配色
