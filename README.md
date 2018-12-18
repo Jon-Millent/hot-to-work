@@ -8,6 +8,7 @@
 * <a href="https://git.io/">github短网址</a>
 * <a href="https://uzer.me">uzer.me 在线ps办公等..</a>
 * <a href="http://www.yopmail.com/zh/">匿名邮箱</a>
+* <a href="http://24mail.chacuo.net/">临时邮箱</a>
 
 
 ## 配色
