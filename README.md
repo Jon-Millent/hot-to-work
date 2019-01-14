@@ -13,9 +13,11 @@
 
 
 
-## 配色
+## 配色&特效
 
 * <a href="http://nipponcolors.com/">日本传统色</a>
+* <a href="http://www.bg-painter.com/">特效背景图</a>
+
 
 ## 文档
 
