@@ -13,10 +13,10 @@
 
 
 
-## 配色&特效
+## 配色
 
 * <a href="http://nipponcolors.com/">日本传统色</a>
-* <a href="http://www.bg-painter.com/">特效背景图</a>
+
 
 
 ## 文档
@@ -43,6 +43,7 @@
 
 ## 特效
 * <a href="https://wangyasai.github.io/Stars-Emmision/">万箭齐发例子特效在线制作</a>
+* <a href="http://www.bg-painter.com/">特效背景图</a>
 
 ## 划水
 * <a href="https://seeker.niuap.com/">多人贪吃蛇</a>
