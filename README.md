@@ -47,3 +47,6 @@
 
 ## 划水
 * <a href="https://seeker.niuap.com/">多人贪吃蛇</a>
+
+## 资源
+* <a href="https://www.zophar.net/music">fc nes音乐</a>
