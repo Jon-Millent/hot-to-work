@@ -50,3 +50,4 @@
 
 ## 资源
 * <a href="https://www.zophar.net/music">fc nes音乐</a>
+* <a href="http://music.zhuolin.wang/">全网音乐解析</a>
