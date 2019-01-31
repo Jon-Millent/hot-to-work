@@ -55,7 +55,12 @@
 * <a href="https://www.zophar.net/music">fc nes音乐</a>
 * <a href="http://music.zhuolin.wang/">全网音乐解析</a>
 
-
 ## 划水
 * <a href="https://zty.pe/">打字飞机</a>
+* <a href="http://www.mapstd.com/">Google地图塔防</a>
+
+
+## 查询
+* <a href="http://stuffin.space/">查看全球卫星</a> 
+* <a href="https://haveibeenpwned.com/">查看你的账号密码是否泄漏了</a> 
 
