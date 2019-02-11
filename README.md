@@ -13,6 +13,7 @@
 * <a href="https://demo.glyptodon.com">在线15分钟windows系统，可翻墙</a>
 * <a href="https://carbon.now.sh">代码片段</a>
 * <a href="https://placem.at/">生成占位图</a>
+* <a href="https://www.nvidia.com/research/inpainting/">图片修复</a>
 
 ## 配色
 
