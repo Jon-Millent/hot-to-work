@@ -46,6 +46,8 @@
 ## 特效
 * <a href="https://wangyasai.github.io/Stars-Emmision/">万箭齐发例子特效在线制作</a>
 * <a href="http://www.bg-painter.com/">特效背景图</a>
+* <a href="http://nodtotherhythm.com/make">图片唱歌</a>
+
 
 ## 划水
 * <a href="https://seeker.niuap.com/">多人贪吃蛇</a>
