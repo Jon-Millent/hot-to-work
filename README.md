@@ -55,6 +55,7 @@
 ## 划水
 * <a href="https://seeker.niuap.com/">多人贪吃蛇</a>
 * <a href="http://fakeupdate.net/">伪装更新系统</a>
+* <a href="http://www.windows93.net">在线win93伪系统</a>
 
 
 ## 资源
