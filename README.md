@@ -15,7 +15,7 @@
 * <a href="https://placem.at/">生成占位图</a>
 * <a href="https://www.nvidia.com/research/inpainting/">图片修复</a>
 * <a href="https://webpack.jakoblind.no/">webpack配置在线生成</a>
-* <a href="https://copy.sh/v86/">在线</a>
+* <a href="https://copy.sh/v86/">在线linux</a>
 
 
 ## 配色
