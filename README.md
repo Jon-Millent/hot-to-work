@@ -1,22 +1,26 @@
 # how to work
 
 ## 效率工具
-* <a href="https://www.liaoxuefeng.com/wiki/001508284671805d39d23243d884b8b99f440bfae87b0f4000/001509167363938072fc3ae9c454397bbd791fd88b7d92d000
-">在线mysql</a>
-<a href="https://try.redis.io/">在线redis</a>
+
 * <a href="https://jex.im/regulex/">正则可视化</a>
 * <a href="https://git.io/">github短网址</a>
-* <a href="https://uzer.me">uzer.me 在线ps办公等..</a>
 * <a href="http://www.yopmail.com/zh/">匿名邮箱</a>
 * <a href="http://24mail.chacuo.net/">临时邮箱</a>
 * <a href="https://www.remove.bg/">在线自动扣图</a>
-* <a href="https://demo.glyptodon.com">在线15分钟windows系统，可翻墙</a>
 * <a href="https://carbon.now.sh">代码片段</a>
 * <a href="https://placem.at/">生成占位图</a>
 * <a href="https://www.nvidia.com/research/inpainting/">图片修复</a>
 * <a href="https://webpack.jakoblind.no/">webpack配置在线生成</a>
-* <a href="https://copy.sh/v86/">在线linux</a>
 
+
+## 在线系统
+* <a href="http://tour.ubuntu.com/zh-CN/#">在线ubuntu</a>
+* <a href="https://copy.sh/v86/">在线linux</a>
+* <a href="https://uzer.me">uzer.me 在线ps办公等..</a>
+* <a href="https://demo.glyptodon.com">在线15分钟windows系统，可翻墙</a>
+<a href="https://try.redis.io/">在线redis</a>
+* <a href="https://www.liaoxuefeng.com/wiki/001508284671805d39d23243d884b8b99f440bfae87b0f4000/001509167363938072fc3ae9c454397bbd791fd88b7d92d000
+">在线mysql</a>
 
 ## 配色
 
