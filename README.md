@@ -61,7 +61,7 @@
 * <a href="https://seeker.niuap.com/">多人贪吃蛇</a>
 * <a href="http://fakeupdate.net/">伪装更新系统</a>
 * <a href="http://www.windows93.net">在线win93伪系统</a>
-
+* <a href="https://vim-adventures.com/">在线VM学习游戏</a>
 
 ## 资源
 * <a href="https://www.zophar.net/music">fc nes音乐</a>
