@@ -62,15 +62,12 @@
 * <a href="http://fakeupdate.net/">伪装更新系统</a>
 * <a href="http://www.windows93.net">在线win93伪系统</a>
 * <a href="https://vim-adventures.com/">在线VM学习游戏</a>
+* <a href="https://zty.pe/">打字飞机</a>
+* <a href="http://www.mapstd.com/">Google地图塔防</a>
 
 ## 资源
 * <a href="https://www.zophar.net/music">fc nes音乐</a>
 * <a href="http://music.zhuolin.wang/">全网音乐解析</a>
-
-## 划水
-* <a href="https://zty.pe/">打字飞机</a>
-* <a href="http://www.mapstd.com/">Google地图塔防</a>
-
 
 ## 查询
 * <a href="http://stuffin.space/">查看全球卫星</a> 
