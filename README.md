@@ -64,7 +64,7 @@
 * <a href="https://vim-adventures.com/">在线VM学习游戏</a>
 * <a href="https://zty.pe/">打字飞机</a>
 * <a href="http://www.mapstd.com/">Google地图塔防</a>
-* <a href="http://www.sketchswap.com/>以画换画</a>
+* <a href="http://www.sketchswap.com/">以画换画</a>
 
 ## 资源
 * <a href="https://www.zophar.net/music">fc nes音乐</a>
