@@ -55,6 +55,7 @@
 * <a href="https://wangyasai.github.io/Stars-Emmision/">万箭齐发例子特效在线制作</a>
 * <a href="http://www.bg-painter.com/">特效背景图</a>
 * <a href="http://nodtotherhythm.com/make">图片唱歌</a>
+* <a href="http://geektyper.com/#">炫酷的命令行输入</a>
 
 
 ## 划水
