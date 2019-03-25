@@ -50,6 +50,8 @@
 
 ## 记录
 * <a href="http://www.evolutionoftheweb.com/">网络的演变</a>
+* <a href="http://web.archive.org/">查看某网站的历史样子</a>
+
 
 ## 特效
 * <a href="https://wangyasai.github.io/Stars-Emmision/">万箭齐发例子特效在线制作</a>
