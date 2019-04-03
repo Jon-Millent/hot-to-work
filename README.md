@@ -12,6 +12,7 @@
 * <a href="https://www.nvidia.com/research/inpainting/">图片修复</a>
 * <a href="https://webpack.jakoblind.no/">webpack配置在线生成</a>
 * <a href="https://thispersondoesnotexist.com/image">生成不存在的用户头像</a>
+* <a href="https://imgchr.com/">图床</a>
 
 
 ## 在线系统
