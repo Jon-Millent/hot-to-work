@@ -11,7 +11,7 @@
 * <a href="https://placem.at/">生成占位图</a>
 * <a href="https://www.nvidia.com/research/inpainting/">图片修复</a>
 * <a href="https://webpack.jakoblind.no/">webpack配置在线生成</a>
-* <a href="https://thispersondoesnotexist.com/image">不存在的用户头像</a>
+* <a href="https://thispersondoesnotexist.com/image">生成不存在的用户头像</a>
 
 
 ## 在线系统
