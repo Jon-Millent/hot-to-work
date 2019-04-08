@@ -13,6 +13,7 @@
 * <a href="https://webpack.jakoblind.no/">webpack配置在线生成</a>
 * <a href="https://thispersondoesnotexist.com/image">生成不存在的用户头像</a>
 * <a href="https://imgchr.com/">图床</a>
+* <a href="http://www.bejson.com/ui/tuchuang/">新浪图床</a>
 
 
 ## 在线系统
